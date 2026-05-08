@@ -200,6 +200,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 - [ ] [KNN Algorithm in Machine Learning](https://www.scaler.com/topics/what-is-knn-algorithm-in-machine-learning/)
+- [ ] [Interactive Step-by-Step Machine Learning Algorithms Solver](https://www.stepbystepml.com/)
 
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
